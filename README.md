@@ -22,6 +22,20 @@ Paso 02 Intalar dependencias del frontend en la carpeta client
 npm i
 ```
 
+Paso 03 Intalar para arrancar la aplicacion en cada terminal ya sea del backend y del frontendusar:
+
+```
+npm run dev
+```
+
+## Plataforma
+
+* **Para la aplicacion frontend se uso Vite y para el backend las librerias que se describen posteriormente ** 
+
+## Autor
+
+* **John Lanza Martinez ** 
+
 ## Autor
 
 * **John Lanza Martinez ** 
